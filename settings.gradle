@@ -1,0 +1,4 @@
+rootProject.name = "practice6"
+include ':app'
+include ':notebook'
+include ':room'
